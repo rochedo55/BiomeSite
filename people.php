@@ -2420,18 +2420,18 @@
                     <center>
                     <div
                         onclick="popup(
-                            'http://lattes.cnpq.br/7545266931352015',
+                            '',
                             '#',
                             '#',
                             '#',
-                            'view/images/people/it-team/bianca-santiago.png',
-                            'Bianca Cristiane Ferreira Santiago',
+                            'view/images/people/it-team/gabriel.png',
+                            'Gabriel Rocha de Souza',
                             'IT Support - Web Designer',
-                            'bianca.santiago72@gmail.com' )"
-                        class="img-people row" href="#aboutModal" data-toggle="modal" data-target="#modalPeople" style="background-image: url('view/images/people/it-team/bianca-santiago.png'); ">
+                            'rochasouzagabriel55@gmail.com' )"
+                        class="img-people row" href="#aboutModal" data-toggle="modal" data-target="#modalPeople" style="background-image: url('view/images/people/it-team/gabriel.png'); ">
                     </div>
                     <div class="row">
-                        <h6 class="name"> Bianca C F Santiago </h6>
+                        <h6 class="name"> Gabriel Rocha de Souza </h6>
                         <h6 class="position">IT Support - Web Designer</h6>
                     </div>
                     </center>
@@ -2445,14 +2445,14 @@
                             '#',
                             '#',
                             '#',
-                            'view/images/people/it-team/daniel-henrique.png',
-                            'Daniel Henrique Ferreira Gomes',
+                            'view/images/people/it-team/lucas-otavio.png',
+                            'Lucas Otávio',
                             'IT Support',
-                            'danielhenriquefg@gmail.com' )"
-                        class="img-people row" href="#aboutModal" data-toggle="modal" data-target="#modalPeople" style="background-image: url('view/images/people/it-team/daniel-henrique.png'); ">
+                            '@gmail.com' )"
+                        class="img-people row" href="#aboutModal" data-toggle="modal" data-target="#modalPeople" style="background-image: url('view/images/people/it-team/lucas-otavio.png'); ">
                     </div>
                     <div class="row">
-                        <h6 class="name"> Daniel H F Gomes </h6>
+                        <h6 class="name"> Lucas Otávio </h6>
                         <h6 class="position">IT Support</h6>
                     </div>
                     </center>
@@ -2647,7 +2647,7 @@
 
             <div class="row">
                             
-            <div class="col-md-2 col-sm-12 col-xsm-12"></div>
+                <div class="col-md-2 col-sm-12 col-xsm-12"></div>
                 <div class="col-lg-2 col-md-2 col-sm-12 col-xsm-12">
                     <center>
                     <div
@@ -2710,6 +2710,8 @@
                     </div>
                     </center>
                 </div>
+            </div>
+            <div class="row">
                 <div class="col-md-1 col-sm-12 col-xsm-12"></div>
                 <div class="col-lg-2 col-md-2 col-sm-12 col-xsm-12">
                     <center>
@@ -2802,7 +2804,7 @@
             <br>
 
             <div class="row">
-                
+            <div class="col-md-2 col-sm-12 col-xsm-12"></div>
                 <div class="col-md-2 col-sm-12 col-xsm-12">
                     <center>
                     <div
@@ -2869,6 +2871,14 @@
                     </center>
                 </div>
                 <div class="col-md-1 col-sm-12 col-xsm-12"></div>
+
+                <!-- <div class="col-md-2 col-sm-12 col-xsm-12"></div> -->
+            </div>
+
+            <br>
+
+            <div class="row">
+            <div class="col-md-1 col-sm-12 col-xsm-12"></div>
                 <div class="col-lg-2 col-md-2 col-sm-12 col-xsm-12">
                     <center>
                     <div
@@ -2889,13 +2899,7 @@
                     </div>
                     </center>
                 </div>
-                <!-- <div class="col-md-2 col-sm-12 col-xsm-12"></div> -->
-            </div>
-
-            <br>
-
-            <div class="row">
-                <div class="col-md-2 col-sm-12 col-xsm-12"></div>
+                <div class="col-md-1 col-sm-12 col-xsm-12"></div>
                 <div class="col-lg-2 col-md-2 col-sm-12 col-xsm-12">
                     <center>
                     <div
@@ -2958,8 +2962,9 @@
                     </div>
                     </center>
                 </div>
-                
-                <div class="col-md-1 col-sm-12 col-xsm-12"></div>
+            </div>
+            <div class="row">
+                <div class="col-md-2 col-sm-12 col-xsm-12"></div>
                 <div class="col-md-2 col-sm-12 col-xsm-12">
                     <center>
                     <div
@@ -3023,6 +3028,11 @@
                     </center>
                 </div>
                 <div class="col-md-1 col-sm-12 col-xsm-12"></div>
+                
+            </div>
+            <div class="row">
+
+                <div class="col-lg-1 col-md-2 col-sm-12 col-xsm-12"></div>
                 <div class="col-lg-2 col-md-2 col-sm-12 col-xsm-12">
                     <center>
                     <div
@@ -3043,7 +3053,7 @@
                     </div>
                     </center>
                 </div>
-                <div class="col-lg-2 col-md-2 col-sm-12 col-xsm-12"></div>
+                <div class="col-lg-1 col-md-2 col-sm-12 col-xsm-12"></div>
                 <div class="col-md-2 col-sm-12 col-xsm-12">
                     <center>
                     <div
@@ -3085,7 +3095,7 @@
                     </div>
                     </center>
                 </div>
-                <div class="col-md-2 col-sm-12 col-xsm-12"></div>
+                <div class="col-md-1 col-sm-12 col-xsm-12"></div>
                 <div class="col-lg-2 col-md-2 col-sm-12 col-xsm-12">
                     <center>
                     <div
@@ -3106,7 +3116,7 @@
                     </div>
                     </center>
                 </div>
-                <div class="col-md-3 col-sm-12 col-xsm-12"></div>
+                <div class="col-md-5 col-sm-12 col-xsm-12"></div>
                 
                 <div class="col-lg-2 col-md-2 col-sm-12 col-xsm-12">
                     <center>
