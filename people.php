@@ -1798,6 +1798,27 @@
                     <center>
                     <div
                         onclick="popup(
+                            'http://lattes.cnpq.br/0830874401712809',
+                            '#',
+                            '#',
+                            '#',
+                            'view/images/people/master/eden-silva.png',
+                            'Eden Silva e Souza',
+                            'MSc. student',
+                            'souza.eden@outlook.com' )"
+                        class="img-people row "href="#aboutModal" data-toggle="modal" data-target="#modalPeople"style="background-image: url('view/images/people/master/eden-silva.png'); ">
+                    </div>
+                    <div class="row">
+                        <h6 class="name"> Eden Silva e Souza </h6>
+                        <h6 class="position">MSc. student</h6>
+                    </div>
+                    </center>
+                </div>
+                <div class="col-md-1 col-sm-12 col-xsm-12"></div>
+                <div class="col-lg-2 col-md-2 col-sm-12 col-xsm-12">
+                    <center>
+                    <div
+                        onclick="popup(
                             'http://lattes.cnpq.br/8604580112217498',
                             '#',
                             '#',
@@ -1811,27 +1832,6 @@
 
                     <div class="row">
                         <h6 class="name"> Eliseu J Medeiros </h6>
-                        <h6 class="position">MSc. student</h6>
-                    </div>
-                    </center>
-                </div>
-                <div class="col-md-1 col-sm-12 col-xsm-12"></div>
-                <div class="col-lg-2 col-md-2 col-sm-12 col-xsm-12">
-                    <center>
-                    <div
-                        onclick="popup(
-                            'http://lattes.cnpq.br/0830874401712809',
-                            '#',
-                            '#',
-                            '#',
-                            'view/images/people/master/eden-silva.png',
-                            'Eden Silva e Souza',
-                            'MSc. student',
-                            'souza.eden@outlook.com' )"
-                        class="img-people row "href="#aboutModal" data-toggle="modal" data-target="#modalPeople"style="background-image: url('view/images/people/master/eden-silva.png'); ">
-                    </div>
-                    <div class="row">
-                        <h6 class="name"> Eden Silva e Souza </h6>
                         <h6 class="position">MSc. student</h6>
                     </div>
                     </center>
@@ -1890,6 +1890,27 @@
                     <center>
                     <div
                         onclick="popup(
+                            'http://lattes.cnpq.br/2798181812475049',
+                            '#',
+                            '#',
+                            '#',
+                            'view/images/people/it-team/igor.png',
+                            'Igor Augusto Brandão',
+                            'MSc. student',
+                            'email' )"
+                        class="img-people row" href="#aboutModal" data-toggle="modal" data-target="#modalPeople" style="background-image: url('view/images/people/it-team/igor.png'); ">
+                    </div>
+                    <div class="row">
+                        <h6 class="name">Igor Augusto Brandão </h6>
+                        <h6 class="position">MSc. student</h6>
+                    </div>
+                    </center>
+                </div>
+                <div class="col-md-1 col-sm-12 col-xsm-12"></div>
+                <div class="col-lg-2 col-md-2 col-sm-12 col-xsm-12">
+                    <center>
+                    <div
+                        onclick="popup(
                             'http://lattes.cnpq.br/0434015840419465',
                             '#',
                             '#',
@@ -1911,6 +1932,33 @@
                     <center>
                     <div
                         onclick="popup(
+                            'http://lattes.cnpq.br/2797997375475881',
+                            '#',
+                            '#',
+                            '#',
+                            'view/images/people/it-team/lukas.png',
+                            'Lukas Iohan da Cruz Carvalho',
+                            'MSc. student',
+                            'email' )"
+                        class="img-people row" href="#aboutModal" data-toggle="modal" data-target="#modalPeople" style="background-image: url('view/images/people/it-team/lukas.png'); ">
+                    </div>
+                    <div class="row">
+                        <h6 class="name">Lukas Iohan da C Carvalho </h6>
+                        <h6 class="position">MSc. student</h6>
+                    </div>
+                    </center>
+                </div>
+                <div class="col-lg-2 col-md-2 col-sm-12 col-xsm-12"></div>
+            </div>
+
+            <br>
+
+            <div class="row">
+                <div class="col-md-1 col-sm-12 col-xsm-12"></div>
+                <div class="col-lg-2 col-md-2 col-sm-12 col-xsm-12">
+                    <center>
+                    <div
+                        onclick="popup(
                             'http://lattes.cnpq.br/7923504191324903',
                             '#',
                             '#',
@@ -1927,12 +1975,6 @@
                     </div>
                     </center>
                 </div>
-                <div class="col-lg-2 col-md-2 col-sm-12 col-xsm-12"></div>
-            </div>
-
-            <br>
-
-            <div class="row">
                 <div class="col-md-1 col-sm-12 col-xsm-12"></div>
                 
                 <div class="col-lg-2 col-md-2 col-sm-12 col-xsm-12">
@@ -1955,12 +1997,7 @@
                     </div>
                     </center>
                 </div>
-            </div>
-
-            <br>
-
-            <div class="row">
-                <div class="col-md-2 col-sm-12 col-xsm-12"></div>
+                <div class="col-md-1 col-sm-12 col-xsm-12"></div>
                 <div class="col-lg-2 col-md-2 col-sm-12 col-xsm-12">
                     <center>
                     <div
@@ -2002,22 +2039,33 @@
                     </div>
                     </center>
                 </div>
-                
-                <div class="col-lg-2 col-md-2 col-sm-12 col-xsm-12"></div>
             </div>
 
             <br>
 
             <div class="row">
-                <div class="col-md-3 col-sm-12 col-xsm-12"></div>
-                
-                <div class="col-md-3 col-sm-12 col-xsm-12"></div>
-            </div>
-
-            <br>
-
-            <div class="row">
-                <div class="col-md-5 col-sm-12 col-xsm-12"></div>
+                <div class="col-md-2 col-sm-12 col-xsm-12"></div>
+                <div class="col-lg-2 col-md-2 col-sm-12 col-xsm-12">
+                    <center>
+                    <div
+                        onclick="popup(
+                            'http://lattes.cnpq.br/5005501878283248',
+                            '#',
+                            '#',
+                            '#',
+                            'view/images/people/master/tayrone.jpg',
+                            'Tayrone de Sousa Monteiro',
+                            'MSc. student',
+                            '-' )"
+                        class="img-people row "href="#aboutModal" data-toggle="modal" data-target="#modalPeople"style="background-image: url('view/images/people/master/tayrone.jpg'); ">
+                    </div>
+                    <div class="row">
+                        <h6 class="name">Tayrone de Sousa Monteiro </h6>
+                        <h6 class="position">MSc. student</h6>
+                    </div>
+                    </center>
+                </div>
+                <div class="col-md-1 col-sm-12 col-xsm-12"></div>
                 <div class="col-lg-2 col-md-2 col-sm-12 col-xsm-12">
                     <center>
                     <div
@@ -2038,6 +2086,23 @@
                     </div>
                     </center>
                 </div>
+                
+                <div class="col-lg-2 col-md-2 col-sm-12 col-xsm-12"></div>
+            </div>
+
+            <br>
+
+            <div class="row">
+                <div class="col-md-3 col-sm-12 col-xsm-12"></div>
+                
+                <div class="col-md-3 col-sm-12 col-xsm-12"></div>
+            </div>
+
+            <br>
+
+            <div class="row">
+                <div class="col-md-5 col-sm-12 col-xsm-12"></div>
+                
                 <div class="col-md-5 col-sm-12 col-xsm-12"></div>
             </div>
 
