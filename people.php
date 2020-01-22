@@ -278,27 +278,6 @@
                     <center>
                     <div
                         onclick="popup(
-                            'http://lattes.cnpq.br/0131770792108992',
-                            '#',
-                            'https://scholar.google.com.br/citations?user=wR2O6I0AAAAJ&hl=en',
-                            'https://www.ncbi.nlm.nih.gov/pubmed/?term=Ferreira%2C+Joao+E%5BAuthor%5D',
-                            'view/images/people/professors/ppgbioinfo/joao-eduardo-ferreira.png',
-                            'João Eduardo Ferreira',
-                            '',
-                            'jef@ime.usp.br' )"
-                        class="img-people row" href="#aboutModal" data-toggle="modal" data-target="#modalPeople" style="background-image: url('view/images/people/professors/ppgbioinfo/joao-eduardo-ferreira.png'); ">
-                    </div>
-                    <div class="row">
-                        <h6 class="name"> João E Ferreira </h6>
-                        <h6 class="position"></h6>
-                    </div>
-                    </center>
-                </div>
-                <div class="col-md-1 col-sm-12 col-xsm-12"></div>
-                <div class="col-lg-2 col-md-2 col-sm-12 col-xsm-12">
-                    <center>
-                    <div
-                        onclick="popup(
                             'http://lattes.cnpq.br/3289758851760692',
                             'https://sigaa.ufrn.br/sigaa/public/docente/portal.jsf?siape=1513597',
                             'https://scholar.google.com.br/citations?user=ntPZSK0AAAAJ',
@@ -315,12 +294,6 @@
                     </div>
                     </center>
                 </div>
-                <div class="col-md-2 col-sm-12 col-xsm-12"></div>
-            </div>
-
-            <br>
-
-            <div class="row">
                 <div class="col-md-1 col-sm-12 col-xsm-12"></div>
                 <div class="col-lg-2 col-md-2 col-sm-12 col-xsm-12">
                     <center>
@@ -342,6 +315,12 @@
                     </div>
                     </center>
                 </div>
+                <div class="col-md-2 col-sm-12 col-xsm-12"></div>
+            </div>
+
+            <br>
+
+            <div class="row">
                 <div class="col-md-1 col-sm-12 col-xsm-12"></div>
                 <div class="col-lg-2 col-md-2 col-sm-12 col-xsm-12">
                     <center>
@@ -368,18 +347,18 @@
                     <center>
                     <div
                         onclick="popup(
-                            'http://lattes.cnpq.br/0362417828475021',
+                            'http://lattes.cnpq.br/0131770792108992',
                             '#',
-                            'https://scholar.google.com.br/citations?user=NbfbLAwAAAAJ&hl=en',
-                            'https://www.ncbi.nlm.nih.gov/pubmed/?term=BARRERA%2C+Junior%5BAuthor%5D',
-                            'view/images/people/professors/ppgbioinfo/junior-barrera.png',
-                            'Júnior Barrera',
+                            'https://scholar.google.com.br/citations?user=wR2O6I0AAAAJ&hl=en',
+                            'https://www.ncbi.nlm.nih.gov/pubmed/?term=Ferreira%2C+Joao+E%5BAuthor%5D',
+                            'view/images/people/professors/ppgbioinfo/joao-eduardo-ferreira.png',
+                            'João Eduardo Ferreira',
                             '',
-                            'jb@ime.usp.br' )"
-                        class="img-people row" href="#aboutModal" data-toggle="modal" data-target="#modalPeople" style="background-image: url('view/images/people/professors/ppgbioinfo/junior-barrera.png'); ">
+                            'jef@ime.usp.br' )"
+                        class="img-people row" href="#aboutModal" data-toggle="modal" data-target="#modalPeople" style="background-image: url('view/images/people/professors/ppgbioinfo/joao-eduardo-ferreira.png'); ">
                     </div>
                     <div class="row">
-                        <h6 class="name"> Júnior Barrera </h6>
+                        <h6 class="name"> João E Ferreira </h6>
                         <h6 class="position"></h6>
                     </div>
                     </center>
@@ -405,12 +384,7 @@
                     </div>
                     </center>
                 </div>
-            </div>
-
-            <br>
-
-            <div class="row">
-                <div class="col-md-2 col-sm-12 col-xsm-12"></div>
+                <div class="col-md-1 col-sm-12 col-xsm-12"></div>
                 <div class="col-lg-2 col-md-2 col-sm-12 col-xsm-12">
                     <center>
                     <div
@@ -431,7 +405,12 @@
                     </div>
                     </center>
                 </div>
-                <div class="col-md-1 col-sm-12 col-xsm-12"></div>
+            </div>
+
+            <br>
+
+            <div class="row">
+                <div class="col-md-2 col-sm-12 col-xsm-12"></div>
                  <div class="col-lg-2 col-md-2 col-sm-12 col-xsm-12">
                     <center>
                     <div
@@ -473,7 +452,27 @@
                     </div>
                     </center>
                 </div>
-                <div class="col-md-2 col-sm-12 col-xsm-12"></div>
+                <div class="col-md-1 col-sm-12 col-xsm-12"></div>
+                <div class="col-lg-2 col-md-2 col-sm-12 col-xsm-12">
+                    <center>
+                    <div
+                        onclick="popup(
+                            'http://lattes.cnpq.br/3898958813303048',
+                            '#',
+                            '',
+                            '',
+                            'view/images/people/professors/ppgbioinfo/renan.jpeg',
+                            'Renan Cipriano Moioli',
+                            '',
+                            '-' )"
+                        class="img-people row" href="#aboutModal" data-toggle="modal" data-target="#modalPeople" style="background-image: url('view/images/people/professors/ppgbioinfo/renan.jpeg'); ">
+                    </div>
+                    <div class="row">
+                        <h6 class="name"> Renan Cipriano Moioli </h6>
+                        <h6 class="position"></h6>
+                    </div>
+                    </center>
+                </div>
             </div>
 
             <br>
@@ -595,6 +594,27 @@
                     <center>
                     <div
                         onclick="popup(
+                            'http://lattes.cnpq.br/1342530085695810',
+                            'https://sigaa.ufrn.br/sigaa/public/docente/portal.jsf?siape=3063244',
+                            '',
+                            '',
+                            'view/images/people/professors/ppgbioinfo/vinicius-ramos.png',
+                            'Tetsu Sakamoto',
+                            '',
+                            '@imd.ufrn.br' )"
+                        class="img-people row" href="#aboutModal" data-toggle="modal" data-target="#modalPeople" style="background-image: url('view/images/people/professors/ppgbioinfo/vinicius-ramos.png'); ">
+                    </div>
+                    <div class="row">
+                        <h6 class="name"> Tetsu Sakamoto </h6>
+                        <h6 class="position"></h6>
+                    </div>
+                    </center>
+                </div>
+                <div class="col-md-1 col-sm-12 col-xsm-12"></div>
+                <div class="col-lg-2 col-md-2 col-sm-12 col-xsm-12">
+                    <center>
+                    <div
+                        onclick="popup(
                             'http://lattes.cnpq.br/3166390632199101',
                             '#',
                             'https://scholar.google.com.br/scholar?hl=pt-BR&as_sdt=0%2C5&q=tha%C3%ADs+gaudencio+do+r%C3%AAgo&btnG=',
@@ -607,6 +627,34 @@
                     </div>
                     <div class="row">
                         <h6 class="name"> Thaís G. Rêgo</h6>
+                        <h6 class="position"></h6>
+                    </div>
+                    </center>
+                </div>
+                
+                <div class="col-lg-2 col-md-2 col-sm-12 col-xsm-12"></div>
+            </div>
+
+            <br>
+
+            <div class="row">
+                <div class="col-md-1 col-sm-12 col-xsm-12"></div>
+                <div class="col-lg-2 col-md-2 col-sm-12 col-xsm-12">
+                     <center>
+                    <div
+                        onclick="popup(
+                            'http://lattes.cnpq.br/9579151361576173',
+                            'https://sigaa.ufrn.br/sigaa/public/docente/portal.jsf?siape=1352009',
+                            'https://scholar.google.com.br/citations?user=gzWm4JYAAAAJ&hl=en',
+                            'https://www.ncbi.nlm.nih.gov/pubmed/?term=Fulco+UL+%5BAuthor%5D',
+                            'view/images/people/professors/ppgbioinfo/tirzah.jpeg',
+                            'Tirzah Braz Petta Lajus',
+                            '',
+                            'umbertofulco@gmail.com' )"
+                        class="img-people row" href="#aboutModal" data-toggle="modal" data-target="#modalPeople" style="background-image: url('view/images/people/professors/ppgbioinfo/tirzah.jpeg'); ">
+                    </div>
+                    <div class="row">
+                        <h6 class="name">Tirzah Braz Petta Lajus </h6>
                         <h6 class="position"></h6>
                     </div>
                     </center>
@@ -632,13 +680,7 @@
                     </div>
                     </center>
                 </div>
-                <div class="col-lg-2 col-md-2 col-sm-12 col-xsm-12"></div>
-            </div>
-
-            <br>
-
-            <div class="row">
-                <div class="col-md-3 col-sm-12 col-xsm-12"></div>
+                <div class="col-md-1 col-sm-12 col-xsm-12"></div>
                 <div class="col-lg-2 col-md-2 col-sm-12 col-xsm-12">
                     <center>
                     <div
@@ -659,7 +701,7 @@
                     </div>
                     </center>
                 </div>
-                <div class="col-md-2 col-sm-12 col-xsm-12"></div>
+                <div class="col-md-1 col-sm-12 col-xsm-12"></div>
                 <div class="col-lg-2 col-md-2 col-sm-12 col-xsm-12">
                     <center>
                     <div
@@ -899,6 +941,27 @@
                     <center>
                     <div
                         onclick="popup(
+                            'http://lattes.cnpq.br/3898958813303048',
+                            '#',
+                            '',
+                            '',
+                            'view/images/people/professors/ppgbioinfo/renan.jpeg',
+                            'Renan Cipriano Moioli',
+                            '',
+                            '-' )"
+                        class="img-people row" href="#aboutModal" data-toggle="modal" data-target="#modalPeople" style="background-image: url('view/images/people/professors/ppgbioinfo/renan.jpeg'); ">
+                    </div>
+                    <div class="row">
+                        <h6 class="name"> Renan Cipriano Moioli </h6>
+                        <h6 class="position"></h6>
+                    </div>
+                    </center>
+                </div>
+                <div class="col-md-1 col-sm-12 col-xsm-12"></div>
+                <div class="col-lg-2 col-md-2 col-sm-12 col-xsm-12">
+                    <center>
+                    <div
+                        onclick="popup(
                             'http://lattes.cnpq.br/4065178015615979',
                             'https://sigaa.ufrn.br/sigaa/public/docente/portal.jsf?siape=1507794',
                             'https://scholar.google.com/citations?user=FgZd13AAAAAJ&hl=fi',
@@ -937,6 +1000,9 @@
                     </center>
                 </div>
                 <div class="col-md-1 col-sm-12 col-xsm-12"></div>
+            </div>
+            <div class="row">
+                <div class="col-md-4 col-sm-12 col-xsm-12"></div>
                 <div class="col-lg-2 col-md-2 col-sm-12 col-xsm-12">
                     <center>
                     <div
@@ -957,6 +1023,27 @@
                     </div>
                     </center>
                 </div>
+                <div class="col-md-1 col-sm-12 col-xsm-12"></div>
+                <div class="col-lg-2 col-md-2 col-sm-12 col-xsm-12">
+                    <center>
+                    <div
+                        onclick="popup(
+                            'http://lattes.cnpq.br/1342530085695810',
+                            'https://sigaa.ufrn.br/sigaa/public/docente/portal.jsf?siape=3063244',
+                            '',
+                            '',
+                            'view/images/people/professors/ppgbioinfo/vinicius-ramos.png',
+                            'Tetsu Sakamoto',
+                            '',
+                            '@imd.ufrn.br' )"
+                        class="img-people row" href="#aboutModal" data-toggle="modal" data-target="#modalPeople" style="background-image: url('view/images/people/professors/ppgbioinfo/vinicius-ramos.png'); ">
+                    </div>
+                    <div class="row">
+                        <h6 class="name"> Tetsu Sakamoto </h6>
+                        <h6 class="position"></h6>
+                    </div>
+                    </center>
+                </div>
             </div>
 
         </div>
@@ -973,7 +1060,7 @@
 <!-- =================== -->
 <!-- POSTDOC RESEARCHERS -->
 <!-- =================== -->
-<section class="col-md-12 col-sm-12 col-xsm-12" style="background-color: #e8e8e8" id="postdocresearchers">
+<!-- <section class="col-md-12 col-sm-12 col-xsm-12" style="background-color: #e8e8e8" id="postdocresearchers">
 <br><br><br>
 
     <div class="row">
@@ -1036,7 +1123,7 @@
 
         </div>
     </div>
-</section>
+</section> -->
 <!-- ======================= -->
 <!-- POSTDOC RESEARCHERS END -->
 <!-- ======================= -->
@@ -1235,7 +1322,7 @@
             <br>
 
             <div class="row">
-                <div class="col-md-1 col-sm-12 col-xsm-12"></div>
+                <div class="col-md-2 col-sm-12 col-xsm-12"></div>
                 <div class="col-lg-2 col-md-2 col-sm-12 col-xsm-12">
                     <center>
                     <div
@@ -1282,6 +1369,51 @@
                     <center>
                     <div
                         onclick="popup(
+                            'http://lattes.cnpq.br/7184563968194261',
+                            '#',
+                            '#',
+                            '#',
+                            'view/images/people/phd/eric.jpeg',
+                            'Eric Gabriel Oliveira Rodrigues',
+                            'PhD. student',
+                            '@gmail.com' )"
+                        class="img-people row "href="#aboutModal" data-toggle="modal" data-target="#modalPeople"style="background-image: url('view/images/people/phd/eric.jpeg'); ">
+                    </div>
+                    <div class="row">
+                        <h6 class="name"> Eric G O Rodrigues </h6>
+                        <h6 class="position">PhD. student</h6>
+                    </div>
+                    </center>
+                </div>
+            </div>
+            <div class="row">
+                
+            <div class="col-md-1 col-sm-12 col-xsm-12"></div>
+                <div class="col-lg-2 col-md-2 col-sm-12 col-xsm-12">
+                    <center>
+                    <div
+                        onclick="popup(
+                            'http://lattes.cnpq.br/8933552640663619',
+                            '#',
+                            '#',
+                            '#',
+                            'view/images/people/phd/fabio.jpeg',
+                            'Fabio Fonseca de Oliveira',
+                            'PhD. student',
+                            'felipe_limacb@yahoo.com.br' )"
+                        class="img-people row "href="#aboutModal" data-toggle="modal" data-target="#modalPeople"style="background-image: url('view/images/people/phd/fabio.jpeg'); ">
+                    </div>
+                    <div class="row">
+                        <h6 class="name"> Fabio F de Oliveira </h6>
+                        <h6 class="position">PhD. student</h6>
+                    </div>
+                    </center>
+                </div>
+                <div class="col-md-1 col-sm-12 col-xsm-12"></div>
+                <div class="col-lg-2 col-md-2 col-sm-12 col-xsm-12">
+                    <center>
+                    <div
+                        onclick="popup(
                             'http://lattes.cnpq.br/3011196178202548',
                             '#',
                             '#',
@@ -1319,12 +1451,7 @@
                     </div>
                     </center>
                 </div>
-            </div>
-
-            <br>
-
-            <div class="row">
-                <div class="col-md-2 col-sm-12 col-xsm-12"></div>
+                <div class="col-md-1 col-sm-12 col-xsm-12"></div>
                 <div class="col-lg-2 col-md-2 col-sm-12 col-xsm-12">
                     <center>
                     <div
@@ -1345,7 +1472,12 @@
                     </div>
                     </center>
                 </div>
-                <div class="col-md-1 col-sm-12 col-xsm-12"></div>
+            </div>
+
+            <br>
+
+            <div class="row">
+                <div class="col-md-2 col-sm-12 col-xsm-12"></div>
                 <div class="col-lg-2 col-md-2 col-sm-12 col-xsm-12">
                     <center>
                     <div
@@ -1387,12 +1519,53 @@
                     </div>
                     </center>
                 </div>
-                <div class="col-lg-2 col-md-2 col-sm-12 col-xsm-12"></div>
+                <div class="col-md-1 col-sm-12 col-xsm-12"></div>
+                <div class="col-lg-2 col-md-2 col-sm-12 col-xsm-12">
+                    <center>
+                    <div
+                        onclick="popup(
+                            'http://lattes.cnpq.br/0754635433519696',
+                            '#',
+                            '#',
+                            '#',
+                            'view/images/people/phd/jessica.jpeg',
+                            'Jéssika de Oliveira Viana',
+                            'PhD. student',
+                            'inacio.medeiros@neuro.ufrn.br' )"
+                        class="img-people row "href="#aboutModal" data-toggle="modal" data-target="#modalPeople"style="background-image: url('view/images/people/phd/jessica.jpeg'); ">
+                    </div>
+                    <div class="row">
+                        <h6 class="name"> Jéssika de O Viana </h6>
+                        <h6 class="position">PhD. student</h6>
+                    </div>
+                    </center>
+                </div>
             </div>
 
             <br>
 
             <div class="row">
+                <div class="col-md-1 col-sm-12 col-xsm-12"></div>
+                <div class="col-lg-2 col-md-2 col-sm-12 col-xsm-12">
+                    <center>
+                    <div
+                        onclick="popup(
+                            'http://lattes.cnpq.br/5932687440749581',
+                            '#',
+                            '#',
+                            '#',
+                            'view/images/people/phd/jonathas.jpeg',
+                            'Jonathas Diego Lima Santos',
+                            'PhD. student',
+                            'josivanrjustino@gmail.com' )"
+                        class="img-people row "href="#aboutModal" data-toggle="modal" data-target="#modalPeople"style="background-image: url('view/images/people/phd/jonathas.jpeg'); ">
+                    </div>
+                    <div class="row">
+                        <h6 class="name"> Jonathas Diego L Santos </h6>
+                        <h6 class="position">PhD. student</h6>
+                    </div>
+                    </center>
+                </div>
                 <div class="col-md-1 col-sm-12 col-xsm-12"></div>
                 <div class="col-lg-2 col-md-2 col-sm-12 col-xsm-12">
                     <center>
@@ -1457,7 +1630,12 @@
                     </div>
                     </center>
                 </div>
-                <div class="col-md-1 col-sm-12 col-xsm-12"></div>
+            </div>
+
+            <br>
+
+            <div class="row">
+                <div class="col-md-2 col-sm-12 col-xsm-12"></div>
                 <div class="col-lg-2 col-md-2 col-sm-12 col-xsm-12">
                     <center>
                     <div
@@ -1478,11 +1656,6 @@
                     </div>
                     </center>
                 </div>
-            </div>
-
-            <br>
-
-            <div class="row">
                 <div class="col-md-1 col-sm-12 col-xsm-12"></div>
                 <div class="col-lg-2 col-md-2 col-sm-12 col-xsm-12">
                     <center>
@@ -1504,12 +1677,6 @@
                     </div>
                     </center>
                 </div>
-                <div class="col-lg-2 col-md-2 col-sm-12 col-xsm-12"></div>
-            </div>
-
-            <br>
-
-            <div class="row">
                 <div class="col-md-1 col-sm-12 col-xsm-12"></div>
                 <div class="col-lg-2 col-md-2 col-sm-12 col-xsm-12">
                     <center>
@@ -1531,6 +1698,12 @@
                     </div>
                     </center>
                 </div>
+                <div class="col-lg-2 col-md-2 col-sm-12 col-xsm-12"></div>
+            </div>
+
+            <br>
+
+            <div class="row">
                 <div class="col-md-1 col-sm-12 col-xsm-12"></div>
                 <div class="col-lg-2 col-md-2 col-sm-12 col-xsm-12">
                     <center>
@@ -1594,12 +1767,7 @@
                     </div>
                     </center>
                 </div>
-            </div>
-
-            <br>
-
-            <div class="row">
-                <div class="col-md-2 col-sm-12 col-xsm-12"></div>
+                <div class="col-md-1 col-sm-12 col-xsm-12"></div>
                 <div class="col-lg-2 col-md-2 col-sm-12 col-xsm-12">
                     <center>
                     <div
@@ -1620,7 +1788,12 @@
                     </div>
                     </center>
                 </div>
-                <div class="col-md-1 col-sm-12 col-xsm-12"></div>
+            </div>
+
+            <br>
+
+            <div class="row">
+                <div class="col-md-2 col-sm-12 col-xsm-12"></div>
                 <div class="col-lg-2 col-md-2 col-sm-12 col-xsm-12">
                     <center>
                     <div
@@ -1662,13 +1835,7 @@
                     </div>
                     </center>
                 </div>
-                <div class="col-lg-2 col-md-2 col-sm-12 col-xsm-12"></div>
-            </div>
-
-            <br>
-
-            <div class="row">
-                <div class="col-md-3 col-sm-12 col-xsm-12"></div>
+                <div class="col-md-1 col-sm-12 col-xsm-12"></div>
                 <div class="col-lg-2 col-md-2 col-sm-12 col-xsm-12">
                     <center>
                     <div
@@ -1689,9 +1856,10 @@
                     </div>
                     </center>
                 </div>
-                
-                <div class="col-md-3 col-sm-12 col-xsm-12"></div>
+                <div class="col-lg-2 col-md-2 col-sm-12 col-xsm-12"></div>
             </div>
+
+            <br>
 
         </div>
     </div>
@@ -1762,11 +1930,11 @@
                             '#',
                             '#',
                             '#',
-                            'view/images/people/master/aristides.png',
+                            'view/images/people/master/aristides.jpeg',
                             'Aristides Lima do Nascimento',
                             'MSc student',
                             '' )"
-                        class="img-people row "href="#aboutModal" data-toggle="modal" data-target="#modalPeople" style="background-image: url('view/images/people/master/aristides.png'); ">
+                        class="img-people row "href="#aboutModal" data-toggle="modal" data-target="#modalPeople" style="background-image: url('view/images/people/master/aristides.jpeg'); ">
                     </div>
                     <div class="row">
                         <h6 class="name"> Aristides L do Nascimento </h6>
@@ -1834,11 +2002,11 @@
                             '#',
                             '#',
                             '#',
-                            'view/images/people/master/eliseu.png',
+                            'view/images/people/master/eliseu.jpeg',
                             'Eliseu Jayro de Souza Medeiros',
                             'MSc student',
                             '' )"
-                        class="img-people row" href="#aboutModal" data-toggle="modal" data-target="#modalPeople" style="background-image: url('view/images/people/master/eliseu.png'); ">
+                        class="img-people row" href="#aboutModal" data-toggle="modal" data-target="#modalPeople" style="background-image: url('view/images/people/master/eliseu.jpeg'); ">
                     </div>
 
                     <div class="row">
@@ -1905,11 +2073,11 @@
                             '#',
                             '#',
                             '#',
-                            'view/images/people/it-team/igor.png',
+                            'view/images/people/master/igor.jpeg',
                             'Igor Augusto Brandão',
                             'MSc. student',
                             'email' )"
-                        class="img-people row" href="#aboutModal" data-toggle="modal" data-target="#modalPeople" style="background-image: url('view/images/people/it-team/igor.png'); ">
+                        class="img-people row" href="#aboutModal" data-toggle="modal" data-target="#modalPeople" style="background-image: url('view/images/people/master/igor.jpeg'); ">
                     </div>
                     <div class="row">
                         <h6 class="name">Igor Augusto Brandão </h6>
@@ -1947,11 +2115,11 @@
                             '#',
                             '#',
                             '#',
-                            'view/images/people/it-team/lukas.png',
+                            'view/images/people/master/lukas.jpeg',
                             'Lukas Iohan da Cruz Carvalho',
                             'MSc. student',
                             'email' )"
-                        class="img-people row" href="#aboutModal" data-toggle="modal" data-target="#modalPeople" style="background-image: url('view/images/people/it-team/lukas.png'); ">
+                        class="img-people row" href="#aboutModal" data-toggle="modal" data-target="#modalPeople" style="background-image: url('view/images/people/master/lukas.jpeg'); ">
                     </div>
                     <div class="row">
                         <h6 class="name">Lukas Iohan da C Carvalho </h6>
@@ -2055,20 +2223,20 @@
             <br>
 
             <div class="row">
-                <div class="col-md-2 col-sm-12 col-xsm-12"></div>
+                <div class="col-md-3 col-sm-12 col-xsm-12"></div>
                 <div class="col-lg-2 col-md-2 col-sm-12 col-xsm-12">
                     <center>
                     <div
                         onclick="popup(
-                            'http://lattes.cnpq.br/5005501878283248',
+                            'http://lattes.cnpq.br/2289231769022821',
                             '#',
                             '#',
                             '#',
-                            'view/images/people/master/tayrone.jpg',
+                            'view/images/people/master/tayrone.jpeg',
                             'Tayrone de Sousa Monteiro',
                             'MSc. student',
                             '-' )"
-                        class="img-people row "href="#aboutModal" data-toggle="modal" data-target="#modalPeople"style="background-image: url('view/images/people/master/tayrone.jpg'); ">
+                        class="img-people row "href="#aboutModal" data-toggle="modal" data-target="#modalPeople"style="background-image: url('view/images/people/master/tayrone.jpeg'); ">
                     </div>
                     <div class="row">
                         <h6 class="name">Tayrone de Sousa Monteiro </h6>
@@ -2076,7 +2244,7 @@
                     </div>
                     </center>
                 </div>
-                <div class="col-md-1 col-sm-12 col-xsm-12"></div>
+                <div class="col-md-2 col-sm-12 col-xsm-12"></div>
                 <div class="col-lg-2 col-md-2 col-sm-12 col-xsm-12">
                     <center>
                     <div
@@ -2131,7 +2299,7 @@
 <!-- ================== -->
 <!-- UNDERGRAD STUDENTS -->
 <!-- ================== -->
-<section class="col-md-12 col-sm-12 col-xsm-12 "style="background-color: #e8e8e8" id="undergradstudents">
+<!-- <section class="col-md-12 col-sm-12 col-xsm-12 "style="background-color: #e8e8e8" id="undergradstudents">
 <br><br><br>
 
     <div class="row">
@@ -2310,7 +2478,7 @@
 
         </div>
     </div>
-</section>
+</section> -->
 <!-- ================== -->
 <!-- UNDERGRAD STUDENTS -->
 <!-- ================== -->
@@ -2369,14 +2537,14 @@
                             '#',
                             '#',
                             '#',
-                            'view/images/people/staff/rodrigo-romao.png',
-                            'Rodrigo Romão do Nascimento',
+                            'view/images/people/staff/jessica.png',
+                            'Jessica Petrovich Henriques',
                             'BioME´s Secretary',
-                            'rodrigo.romao@imd.ufrn.br' )"
-                        class="img-people row" href="#aboutModal" data-toggle="modal" data-target="#modalPeople" style="background-image: url('view/images/people/staff/rodrigo-romao.png'); ">
+                            'jessicapetrovich@imd.ufrn.br' )"
+                        class="img-people row" href="#aboutModal" data-toggle="modal" data-target="#modalPeople" style="background-image: url('view/images/people/staff/jessica.png'); ">
                     </div>
                     <div class="row">
-                        <h6 class="name"> Rodrigo Romão </h6>
+                        <h6 class="name"> Jessica Henriques </h6>
                         <h6 class="position">BioME's Secretary</h6>
                     </div>
                     </center>
@@ -2415,7 +2583,7 @@
             <br>
 
             <div class="row">
-                <div class="col-md-2 col-sm-1 col-xsm-1"></div>
+                <div class="col-md-3 col-sm-1 col-xsm-1"></div>
                 <div class="col-lg-2 col-md-2 col-sm-12 col-xsm-12">
                     <center>
                     <div
@@ -2424,11 +2592,11 @@
                             '#',
                             '#',
                             '#',
-                            'view/images/people/it-team/gabriel.png',
+                            'view/images/people/it-team/gabriel.jpeg',
                             'Gabriel Rocha de Souza',
                             'IT Support - Web Designer',
                             'rochasouzagabriel55@gmail.com' )"
-                        class="img-people row" href="#aboutModal" data-toggle="modal" data-target="#modalPeople" style="background-image: url('view/images/people/it-team/gabriel.png'); ">
+                        class="img-people row" href="#aboutModal" data-toggle="modal" data-target="#modalPeople" style="background-image: url('view/images/people/it-team/gabriel.jpeg'); ">
                     </div>
                     <div class="row">
                         <h6 class="name"> Gabriel Rocha de Souza </h6>
@@ -2436,35 +2604,7 @@
                     </div>
                     </center>
                 </div>
-                <div class="col-md-1 col-sm-12 col-xsm-12"></div>
-                <div class="col-lg-2 col-md-2 col-sm-12 col-xsm-12">
-                    <center>
-                    <div
-                        onclick="popup(
-                            'http://lattes.cnpq.br/1320517156166163',
-                            '#',
-                            '#',
-                            '#',
-                            'view/images/people/it-team/lucas-otavio.png',
-                            'Lucas Otávio',
-                            'IT Support',
-                            '@gmail.com' )"
-                        class="img-people row" href="#aboutModal" data-toggle="modal" data-target="#modalPeople" style="background-image: url('view/images/people/it-team/lucas-otavio.png'); ">
-                    </div>
-                    <div class="row">
-                        <h6 class="name"> Lucas Otávio </h6>
-                        <h6 class="position">IT Support</h6>
-                    </div>
-                    </center>
-                </div>
-    
                 <div class="col-md-2 col-sm-12 col-xsm-12"></div>
-            </div>
-
-            <br>
-
-            <div class="row">
-                <div class="col-md-3 col-sm-12 col-xsm-12"></div>
                 <div class="col-lg-2 col-md-2 col-sm-12 col-xsm-12">
                     <center>
                     <div
@@ -2482,6 +2622,35 @@
                     <div class="row">
                         <h6 class="name"> Guilherme F Araújo </h6>
                         <h6 class="position">IT Analyst</h6>
+                    </div>
+                    </center>
+                </div>
+    
+                <div class="col-md-2 col-sm-12 col-xsm-12"></div>
+            </div>
+
+            <br>
+
+            <div class="row">
+                <div class="col-md-3 col-sm-12 col-xsm-12"></div>
+                
+                <div class="col-lg-2 col-md-2 col-sm-12 col-xsm-12">
+                    <center>
+                    <div
+                        onclick="popup(
+                            'http://lattes.cnpq.br/1320517156166163',
+                            '#',
+                            '#',
+                            '#',
+                            'view/images/people/it-team/luca-vieira.jpeg',
+                            'Lucas Vieira',
+                            'IT Support',
+                            'lucas208@ufrn.edu.br' )"
+                        class="img-people row" href="#aboutModal" data-toggle="modal" data-target="#modalPeople" style="background-image: url('view/images/people/it-team/luca-vieira.jpeg'); ">
+                    </div>
+                    <div class="row">
+                        <h6 class="name"> Lucas Vieira </h6>
+                        <h6 class="position">IT Support</h6>
                     </div>
                     </center>
                 </div>
@@ -2639,7 +2808,7 @@
 
             <div class="row">
                 <div class="col-md-12 col-sm-12 col-xsm-12">
-                    <center><h6 class="tag-title">FORMED STUDENTS BY THE PROGRAM</h6></center>
+                    <center><h6 class="tag-title">FORMER STUDENTS BY THE PROGRAM</h6></center>
                 </div>
             </div>
 
